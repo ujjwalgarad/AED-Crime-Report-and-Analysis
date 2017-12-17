@@ -6,3 +6,5 @@ Resident -> loggs crime request.
 Police Officer -> Acts on crime request.
 
 Uses db4o object database and JXL library for graphs.
+
+Built using Netbeans
